@@ -1,4 +1,4 @@
-![logo](https://wallpaperaccess.com/machine-learning)
+![logo](https://github.com/abhaymahato30/abhaymahato30/blob/main/1325192.jpg)
 
 <h1 align="center">Hi 👋, I'm Abhay Kumar Mahato</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
